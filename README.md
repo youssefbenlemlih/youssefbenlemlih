@@ -4,9 +4,9 @@ I'm an IT consultant and content creator with a passion for building modern web 
 
 ## 🧑‍💻 Popular Repositories
 
-* react-patterns: A collection of must-know ReactJS coding patterns.
-* notes4devs: A note taking app for developers
-* website: The code of youssefbee.com
+* [react-patterns](https://github.com/youssefbenlemlih/react-patterns): A collection of must-know ReactJS coding patterns.
+* [notes4devs](https://github.com/youssefbenlemlih/notes4devs): A note taking app for developers
+* [website](https://github.com/youssefbenlemlih/website): The code of youssefbee.com
 
 ## 🎥 YouTube
 
