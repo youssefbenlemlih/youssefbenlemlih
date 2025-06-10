@@ -1,16 +1,32 @@
-### Hi there 👋
+# I'm Youssef, **IT Consultant & YouTuber**
 
-<!--
-**youssefbenlemlih/youssefbenlemlih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT consultant and content creator with a passion for building modern web applications and helping others learn to do the same.
 
-Here are some ideas to get you started:
+## 🧑‍💻 Popular Repositories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* react-patterns: A collection of must-know ReactJS coding patterns.
+* notes4devs: A note taking app for developers
+* website: The code of youssefbee.com
+
+## 🎥 YouTube
+
+I run a [YouTube channel](https://www.youtube.com/@youssefbenlemlih) (5K Subscribers) focused on **advanced ReactJS** development.
+
+On the channel, I cover:
+
+* ReactJS tips and patterns
+* TanStack Query & Router
+* Hooks and advanced component patterns
+* Clean architecture for React apps
+* Developer productivity and tooling
+
+If you're looking to level up your React skills, [come check it out](https://www.youtube.com/@youssefbenlemlih)!
+## 📫 Contact
+
+I'm always happy to connect with fellow developers and creators.
+
+* Website: youssefbee.com
+* Twitter (X): https://x.com/YBenlemlih
+* YouTube: https://www.youtube.com/@youssefbenlemlih
+* LinkedIn: https://www.linkedin.com/in/youssef-bee/
+* Email: mail@youssefbee.com
